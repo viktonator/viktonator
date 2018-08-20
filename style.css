@@ -1,0 +1,25 @@
+body{
+  font-family: "Papyrus", "Comic Sans MS", "sans-serif";
+}
+header{
+  background-color: hotpink;
+  color: white;
+  padding: 10px;
+}
+.content{
+  background-color: lightpink;
+  padding: 10px;
+  overflow: hidden;
+}
+section{
+  float: left;
+}
+aside{
+  float: right;
+}
+footer{
+  clear: both;
+  background-color: papayawhip;
+  padding: 10px;
+  text-align: right;
+}
